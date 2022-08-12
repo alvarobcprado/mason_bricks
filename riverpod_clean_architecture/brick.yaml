@@ -1,5 +1,5 @@
 name: riverpod_clean_architecture
-description: A new brick created with the Mason CLI.
+description: A brick to create structure folders of Clean Architecture with Riverpod.
 
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
@@ -20,9 +20,4 @@ environment:
 #  * an optional list of default values (array only)
 #  * an optional prompt phrase used when asking for the variable
 #  * a list of values (enums only)
-vars:
-  name:
-    type: string
-    description: Your name
-    default: Dash
-    prompt: What is your name?
+
