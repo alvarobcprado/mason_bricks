@@ -1,5 +1,6 @@
 name: riverpod_clean_architecture
 description: A brick to create structure folders of Clean Architecture with Riverpod.
+repository: https://github.com/alvarobcprado/mason_bricks/tree/main/riverpod_clean_architecture
 
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
